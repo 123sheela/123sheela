@@ -45,11 +45,10 @@
 💬 Let's embark on this journey together and build something amazing. Feel free to reach out—I'd love to hear from you!
 
 <!-- languages -->
+
 <h2 align="left">My Toolbox:</h2>
 <h4 align="center">🛠️ Here's what's in my toolbox</h4><br>
-
 <div align="center">  
- 
 <!-- java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
   <!-- html -->
@@ -64,7 +63,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <!-- photoshop -->
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-</div>
+</div><br>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=123sheela&show_icons=true&locale=en&layout=compact" alt="123sheela" /></p>
