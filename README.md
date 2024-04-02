@@ -1,6 +1,6 @@
 <img src="./img/img2.jpg">
 
- # Welcome to my GitHub profile!
+ # Welcome to My GitHub profile!
 # 👩🏻‍💻 About Me 
 <h2 align="center">A Passionate Full Stack Developer⚡</h2>
 
